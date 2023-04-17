@@ -1,8 +1,23 @@
 {
   "name": "koa-browser-bot",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Realzzz1874",
+  "license": "MIT",
   "type": "module",
+  "keywords": [
+    "koa2",
+    "browser-bot",
+    "crawler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realzzz1874/koa-browser-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Realzzz1874/koa-browser-bot/issues"
+  },
+  "homepage": "https://github.com/Realzzz1874/koa-browser-bot",
   "typings": "./types/index.d.ts",
   "main": "./dist/browser-bot.umd.cjs",
   "module": "./dist/browser-bot.js",
